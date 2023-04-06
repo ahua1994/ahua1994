@@ -7,4 +7,5 @@
 - ⚡ Fun fact: The world's first computer mouse was wooden!
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ahua1994&theme=onedark)
+
 ![codewarsbadge](https://www.codewars.com/users/ahua1994/badges/large)
