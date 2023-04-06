@@ -4,6 +4,7 @@
 - 🌱 I’m currently mastering React.js 
 - 📫 How to reach me: user.andy.hua@gmail.com
 - 💼 My LinkedIn: https://www.linkedin.com/in/andy-hua-125431168/ 
-- ⚡ Fun fact: ... 
+- ⚡ Fun fact: The world's first computer mouse was wooden!
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ahua1994&theme=onedark)
+ ![alt text](![alt text](http://url/to/img.png))
