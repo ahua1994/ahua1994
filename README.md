@@ -2,7 +2,7 @@
 
 - 🔭 I’m a Full-Stack-Developer specializing in the Front End
 - 🌱 I’m currently mastering React.js 
-- 📫 How to reach me: user.andy.hua@gmail.com
+- 📫 How to reach me: andyhua604@gmail.com
 - 💼 My LinkedIn: https://www.linkedin.com/in/andy-hua-125431168/ 
 - ⚡ Fun fact: The world's first computer mouse was wooden!
 
